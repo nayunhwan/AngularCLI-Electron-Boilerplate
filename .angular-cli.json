@@ -1,7 +1,7 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
   "project": {
-    "name": "practice05"
+    "name": "angular-electron-boilerplate"
   },
   "apps": [
     {

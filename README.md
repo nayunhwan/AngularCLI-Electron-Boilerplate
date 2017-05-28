@@ -7,7 +7,6 @@ $ npm install
 ```
 
 ## Run
-
 ```Bash
 $ ng build --watch
 $ npm run electron
